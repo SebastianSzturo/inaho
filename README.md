@@ -4,7 +4,7 @@
 A gem to easily build XML Files to create Dictionaries for Apple's Dictionary.app.
 
 ## Requirements
--  Ruby 1.9
+-  Ruby >= 2.0
 -  [Dictionary Development Kit](https://github.com/SebastianSzturo/dictionary-development-kit)
 
 ## Installation

@@ -1,5 +1,5 @@
 ## Inaho :ear_of_rice:   
-[![Build Status](https://travis-ci.org/SebastianSzturo/Inaho.svg?branch=master)](https://travis-ci.org/SebastianSzturo/Inaho) [![Code Climate](https://codeclimate.com/github/SebastianSzturo/Inaho/badges/gpa.svg)](https://codeclimate.com/github/SebastianSzturo/Inaho)
+[![Build Status](https://travis-ci.org/SebastianSzturo/inaho.svg?branch=master)](https://travis-ci.org/SebastianSzturo/Inaho) [![Code Climate](https://codeclimate.com/github/SebastianSzturo/Inaho/badges/gpa.svg)](https://codeclimate.com/github/SebastianSzturo/Inaho)
 
 A gem to easily build XML Files to create Dictionaries for Apple's Dictionary.app.
 
